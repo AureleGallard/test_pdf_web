@@ -2,14 +2,14 @@
     "version": 2,
     "builds": [
         {
-            "src": "Etudiant.e.s en colère.pdf",
+            "src": "Etudiant-e-s-encolère.pdf",
             "use": "@vercel/static"
         }
     ],
     "routes": [
         {
             "src": "/",
-            "dest": "/Etudiant.e.s en colère.pdf"
+            "dest": "/Etudiant-e-s-encolère.pdf"
         }
     ]
 }
